@@ -1,7 +1,7 @@
 "use client"
 import { FaMoon } from "react-icons/fa"
 import Image from 'next/image'
-import main_1 from './images/main-1.jpg'
+import main_1 from '../images/main_1.jpg'
 import { useState } from 'react'
 
 export default function Home() {
